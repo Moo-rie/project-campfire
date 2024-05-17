@@ -1,2 +1,2 @@
 # project-campfire
-character-sheet facilitator
+character sheet facilitator
